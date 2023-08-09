@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-   
+  
    React Dashboard    
 
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +24,8 @@
 </div>
 
 ## ℹ️ Introduction
+
+![Screenshot 2023-08-10 010104](https://github.com/Ctere1/react-dashboard/assets/62745858/36ce3c3c-b1b0-4abf-b467-a1e43263ae1d)
 
 Basic [React](https://react.dev/) based web app with [TailwindCSS](https://tailwindcss.com/) for styling.
 
