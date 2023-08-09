@@ -9,7 +9,8 @@
 </h1>
 
 <p align="center">
-  <a href="#introduction">Introduction</a> •
+  <a href="#%E2%84%B9%EF%B8%8F-introduction">Introduction</a> •
+  <a href="#live-demo">Live Demo</a> •
   <a href="#installation-guide">Installation Guide</a> •
   <a href="#license">License</a> •
   <a href="#contributors">Contributors</a> 
