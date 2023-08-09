@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <br>
+   
+   React Dashboard    
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+</h1>
 
-## Available Scripts
+<p align="center">
+  <a href="#introduction">Introduction</a> •
+  <a href="#installation-guide">Installation Guide</a> •
+  <a href="#license">License</a> •
+  <a href="#contributors">Contributors</a> 
+</p>
 
-In the project directory, you can run:
+<div align="center">
 
-### `npm start`
+![GitHub Repo stars](https://img.shields.io/github/stars/Ctere1/react-dashboard)
+![GitHub forks](https://img.shields.io/github/forks/Ctere1/react-dashboard)
+![GitHub watchers](https://img.shields.io/github/watchers/Ctere1/react-dashboard)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ℹ️ Introduction
 
-### `npm test`
+Basic [React](https://react.dev/) based web app with [TailwindCSS](https://tailwindcss.com/) for styling.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Syncfusion](https://www.syncfusion.com/) used for dashboard widgets and charts.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Live Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![Netlify Demo](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://ctere1-react-dashboard.netlify.app/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💾Installation Guide
+ 
+ To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))    installed on your computer. 
+ 
+ ```bash
+ # Clone this repository
+ $ git clone https://github.com/Ctere1/react-dashboard
+ # Go into the repository
+ $ cd react-dashboard
+ # Start the app
+ $ npm run dev
+ ```
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ©License
+![GitHub](https://img.shields.io/github/license/Ctere1/react-dashboard?style=flat-square)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📌Contributors
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<a href="https://github.com/Ctere1/">
+  <img src="https://contrib.rocks/image?repo=Ctere1/Ctere1" />
+</a>
